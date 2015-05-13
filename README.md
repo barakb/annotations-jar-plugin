@@ -8,4 +8,13 @@ Create a jar file that contains all the annotations from the project artifacts.
 
 See [example](https://github.com/barakb/annotations-jar-plugin/blob/master/sample-pom.xml)
   
-TODO push it to maven central.
+Maven dependency:
+
+```xml
+<dependency>
+  <groupId>com.github.barakb</groupId>
+  <artifactId>annotations-jar-plugin</artifactId>
+  <version>1.0</version>
+</dependency>
+```
+
